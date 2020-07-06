@@ -65,11 +65,11 @@ easyvest.byethost9.com
 ｜― reset.css
 ｜― style.css
 ｜― template.php
-｜― pages
+｜― univ
   ｜― // php das paginas das universidades
   ｜― contents
     ｜― // conteudo armazenados em html
-｜― pages2
+｜― calendar
   ｜― // php da pagina calendario
   ｜― fullcanlendar
     ｜― lib
